@@ -1,4 +1,4 @@
 rasp-home
 =========
 
-Raspberry Pi Home Autmoation System
+Raspberry Pi Home Automation System
