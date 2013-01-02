@@ -1,0 +1,3 @@
+[submodule "Android/prototypes/android-positioning"]
+	path = Android/prototypes/android-positioning
+	url = git@github.com:rasp-home/android-positioning.git
