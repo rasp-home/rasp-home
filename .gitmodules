@@ -1,3 +1,6 @@
 [submodule "Android/prototypes/android-positioning"]
 	path = Android/prototypes/android-positioning
 	url = git@github.com:rasp-home/android-positioning.git
+[submodule "rasp-home-backend"]
+	path = rasp-home-backend
+	url = https://github.com/rasp-home/rasp-home-backend.git
